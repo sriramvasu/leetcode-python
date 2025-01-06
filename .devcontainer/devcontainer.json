@@ -8,7 +8,7 @@
 		"dockerfile": "../Dockerfile"
 	},
 	"mounts": [
-		"source=/Users/sriramvasudevan/stuff/dev-env,target=/workspace,type=bind"
+		"source=/Users/sriramvasudevan/stuff/dev-env/leetcode-python,target=/workspace,type=bind"
 	],
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
